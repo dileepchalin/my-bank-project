@@ -6,3 +6,4 @@ print("z is:",math.fabs(((math.log10(math.pow(x,n))+(math.log10(math.pow(y,n))))
 log py 
 <head>
 <body>
+dileep chalin
